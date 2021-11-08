@@ -266,3 +266,17 @@ fa, .fab, .fal, .far, .fas {
   padding-top: 20px;
 }
 
+.email {
+  
+  font-size: 16px;
+  line-height: 20px;
+}
+
+
+.email, .firmname {
+  font-size: 14px;
+  font-weight: 500;
+  color: white;
+  letter-spacing: 0.6px;
+  text-align: left;
+}
